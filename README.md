@@ -1,5 +1,6 @@
 # My First Tableau Dashboard | أول مشروع لي على تابلو 📊
 
+![HR Dashboard](HR-Dashbord.png)
 
 **[English Below]**
 
